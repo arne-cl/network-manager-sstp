@@ -1,4 +1,14 @@
+network-manager-sstp (1.2.0-0ubuntu4) xenial; urgency=low
+
+  * Fixed a typo in dependency list of debian package
+
+ -- Eivind Naess <eivnaes@yahoo.com>  Sat, 8 July 2016 10:00:00 -0800
 network-manager-sstp (1.2.0-0ubuntu3) xenial; urgency=low
+
+  * Updated packaging scripts
+
+ -- Eivind Naess <eivnaes@yahoo.com>  Sat, 25 Apr 2016 10:00:00 -0800
+network-manager-sstp (1.2.0-0ubuntu2) xenial; urgency=low
 
   * Upgraded network-manager-sstp to work with libnm version 1.2
   * Updated packaging scripts

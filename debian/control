@@ -32,7 +32,7 @@ Architecture: any
 Depends: 
 	${shlibs:Depends}, 
 	${misc:Depends}, 
-	libsstp-client0 (>= 1.10.0), 
+	libsstp-client0 (>= 1.0.10), 
 	ppp (>= 2.4.7-1+1)
 Recommends: network-manager-sstp-gnome | plasma-nm
 Description: network management framework (SSTP plugin core)
